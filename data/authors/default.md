@@ -9,24 +9,16 @@ linkedin: https://www.linkedin.com
 github: https://github.com
 ---
 
-I'm from India! Skilled with front-end technology and have an eye for innovative and exclusive designs. I've got experience in Angular and WordPress, I can help You out with most of the frontend related tasks from development to deployment.
+Hey, thanks for landing on this page and checking out a more extensive version of my humble-brag page 😄
 
-**I highly specialize in:**
+# Why
 
-### CMS: WordPress
+This corner of the internet helps me clarify and improve my own thinking. Its a mechanism to cope with my chaotic brain that constantly comes up with thoughts or comprehensions of the world concepts but sometimes has conflicts or struggles to structure and organize them.
 
-Backend: Node.JS
+I believe writing is a superpower that most people are yet to discover, because its mainly a path to understanding yourself and sense-making of a rapidly changing world we live in.
 
-JavaScript Framework: Angular
+# Who
+I currently work as a software developer at a tech company. In my free time I am also learning new technologies, design and writing weekly about TypeScript | JavaScript | Web 3/Blockchain | Cryptography.
 
-CSS Framework: Tailwind CSS and Bootstrap,
+My passion is never-ending search for knowledge, learning and leading an examined life. This websites serves as my playground for for experimenting with ideas, products, thoughts and figuring out how the world works.
 
-Databases: MongoDB, and MySQL
-
-Deployment: Amazon Web Services(AWS), Google Cloud Platform(GCP), Digital Ocean
-
-and a whole host of other technologies, platforms, and libraries. Whatever your needs are, I will find a solution that fits it.
-
-I can be a complete solution to most of the web-related tasks from simple HTML pages to complex E-commerce frameworks and database management activities. My passion is design and development, which is also reflected in the art of writing code and solving IT problems.
-
-Fast learner and adaptable to different project environments. Team player, but can also work solo.
