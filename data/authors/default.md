@@ -4,9 +4,9 @@ avatar: /static/images/avatar.jpg
 occupation: TypeScript | JavaScript Developer
 interest: Chronicles of a self-taught developer.
 email: vdhruvannaidu@gmail.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+twitter: https://twitter.com/DhruvanNaidu
+linkedin: https://www.linkedin.com/dhruvannaidu
+github: https://github.com/vdhruvannaidu
 ---
 
 Hey, thanks for landing on this page and checking out a more extensive version of my humble-brag page 😄
